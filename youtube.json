@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Installing VS Code, Extensions & Setup ",
+    "link": "https://www.youtube.com//watch?v=cvvwkgp4HBg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=1",
+    "likes": "10,577 likes",
+    "duration": "1154 sec"
+  },
+  {
+    "name": "Console Logs, Errors, Warnings & More ",
+    "link": "https://www.youtube.com//watch?v=n5Xm6us5-yU&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=2",
+    "likes": "4,134 likes",
+    "duration": "1081 sec"
+  },
+  {
+    "name": "Variables: let, const & var in JavaScript ",
+    "link": "https://www.youtube.com//watch?v=YKvoSoA9CPw&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=3",
+    "likes": "3,895 likes",
+    "duration": "1391 sec"
+  },
+  {
+    "name": "Data Types in JavaScript (Primitive & Reference Types) ",
+    "link": "https://www.youtube.com//watch?v=oKuUSBqv4rg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=4",
+    "likes": "3,229 likes",
+    "duration": "1037 sec"
+  },
+  {
+    "name": "JavaScript Type Conversion & Coercion ",
+    "link": "https://www.youtube.com//watch?v=XYFg6_V-c9Q&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=5",
+    "likes": "2,969 likes",
+    "duration": "960 sec"
+  },
+  {
+    "name": "Strings: Properties, Methods & Template Literals in JavaScript ",
+    "link": "https://www.youtube.com//watch?v=5H_RSfSfaRs&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=6",
+    "likes": "2,636 likes",
+    "duration": "1285 sec"
+  },
+  {
+    "name": "Arrays and Objects In JavaScript ",
+    "link": "https://www.youtube.com//watch?v=nlRtAF8Gu0A&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=7",
+    "likes": "2,560 likes",
+    "duration": "923 sec"
+  },
+  {
+    "name": "If Else Conditionals & Switches in JavaScript ",
+    "link": "https://www.youtube.com//watch?v=vaZpDYOuprA&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=8",
+    "likes": "1,919 likes",
+    "duration": "1037 sec"
+  },
+  {
+    "name": "For, While & Do while Loops in JavaScript ",
+    "link": "https://www.youtube.com//watch?v=SluQIaQD4Ug&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=9",
+    "likes": "1,970 likes",
+    "duration": "1195 sec"
+  },
+  {
+    "name": "Functions in JavaScript ",
+    "link": "https://www.youtube.com//watch?v=dsV07zIGfc4&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=10",
+    "likes": "2,170 likes",
+    "duration": "1032 sec"
+  },
+  {
+    "name": "Manipulating Websites Using JS Window Object ",
+    "link": "https://www.youtube.com//watch?v=36hwHnUdVAA&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=11",
+    "likes": "2,449 likes",
+    "duration": "807 sec"
+  },
+  {
+    "name": "Understanding DOM & Creating a Website Layout ",
+    "link": "https://www.youtube.com//watch?v=vzuOQnfOk2I&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=12",
+    "likes": "2,808 likes",
+    "duration": "966 sec"
+  },
+  {
+    "name": "WebPage Crawler In JavaScript - Exercise 1 ",
+    "link": "https://www.youtube.com//watch?v=fXWd_DxeW9s&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=13",
+    "likes": "1,491 likes",
+    "duration": "191 sec"
+  },
+  {
+    "name": "HTML Element Selectors In JavaScript ",
+    "link": "https://www.youtube.com//watch?v=p9V44AYNfQE&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=14",
+    "likes": "1,909 likes",
+    "duration": "993 sec"
+  },
+  {
+    "name": "Children, Parent & Traversing the DOM ",
+    "link": "https://www.youtube.com//watch?v=087OGOITaKU&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=15",
+    "likes": "1,814 likes",
+    "duration": "1323 sec"
+  },
+  {
+    "name": "Creating, Removing & Replacing Elements ",
+    "link": "https://www.youtube.com//watch?v=MeCPwvMQZ9o&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=16",
+    "likes": "1,461 likes",
+    "duration": "1013 sec"
+  },
+  {
+    "name": "Events & Event Object In JavaScript ",
+    "link": "https://www.youtube.com//watch?v=rxPw8kJUPQ0&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=17",
+    "likes": "1,480 likes",
+    "duration": "663 sec"
+  },
+  {
+    "name": "More on JavaScript Events ",
+    "link": "https://www.youtube.com//watch?v=XFKvwSxWDN0&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=18",
+    "likes": "1,305 likes",
+    "duration": "767 sec"
+  },
+  {
+    "name": "Smart Page Crawler In JS Exercise1: Solution ",
+    "link": "https://www.youtube.com//watch?v=vDdQ6s_yeiA&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=19",
+    "likes": "1,228 likes",
+    "duration": "967 sec"
+  },
+  {
+    "name": "Local & Session storage in JavaScript ",
+    "link": "https://www.youtube.com//watch?v=xSv-9Yod83Q&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=20",
+    "likes": "1,592 likes",
+    "duration": "1051 sec"
+  },
+  {
+    "name": "Creating Editable Div Using JavaScript: Exercise 2 ",
+    "link": "https://www.youtube.com//watch?v=cPtIm7m4Gkg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=21",
+    "likes": "974 likes",
+    "duration": "350 sec"
+  },
+  {
+    "name": "Project 1: Build a Notes Taking Website Using Pure JavaScript ",
+    "link": "https://www.youtube.com//watch?v=kwgNsNhYcHo&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=22",
+    "likes": "2,663 likes",
+    "duration": "3478 sec"
+  },
+  {
+    "name": "Math Object In JavaScript ",
+    "link": "https://www.youtube.com//watch?v=IhARNbBrYrs&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=23",
+    "likes": "1,029 likes",
+    "duration": "1042 sec"
+  },
+  {
+    "name": "Date Object: Date & Time In JavaScript ",
+    "link": "https://www.youtube.com//watch?v=7QaZ4lehCfk&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=24",
+    "likes": "950 likes",
+    "duration": "712 sec"
+  },
+  {
+    "name": "Creating an Editable Div Exercise 2: Solution ",
+    "link": "https://www.youtube.com//watch?v=kk6T2-xeW5A&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=25",
+    "likes": "907 likes",
+    "duration": "1201 sec"
+  },
+  {
+    "name": "Improving Magic Notes Website Exercise 3 ",
+    "link": "https://www.youtube.com//watch?v=eiJwqMpF3Wg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=26",
+    "likes": "656 likes",
+    "duration": "209 sec"
+  },
+  {
+    "name": "Object Literals, Constructors and Object Oriented JavaScript ",
+    "link": "https://www.youtube.com//watch?v=4cuJKHNHQ-s&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=27",
+    "likes": "1,483 likes",
+    "duration": "925 sec"
+  },
+  {
+    "name": "Object Prototype In javascript ",
+    "link": "https://www.youtube.com//watch?v=nBs7t0j3x3c&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=28",
+    "likes": "1,141 likes",
+    "duration": "759 sec"
+  },
+  {
+    "name": "Notes App with Title - Exercise 3: Solution ",
+    "link": "https://www.youtube.com//watch?v=AoeFRS3cRxQ&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=29",
+    "likes": "689 likes",
+    "duration": "774 sec"
+  },
+  {
+    "name": "Prototype Inheritance In JavaScript ",
+    "link": "https://www.youtube.com//watch?v=azTgmrQaYl0&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=30",
+    "likes": "896 likes",
+    "duration": "1292 sec"
+  },
+  {
+    "name": "ES6 Classes and Inheritance ",
+    "link": "https://www.youtube.com//watch?v=YBBg6bp9ojA&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=31",
+    "likes": "1,284 likes",
+    "duration": "1442 sec"
+  },
+  {
+    "name": "Implementing a library class - Exercise 4 ",
+    "link": "https://www.youtube.com//watch?v=_h8-WFuGnNo&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=32",
+    "likes": "613 likes",
+    "duration": "313 sec"
+  },
+  {
+    "name": "Project 2: Building a College Library Website ",
+    "link": "https://www.youtube.com//watch?v=l6i8RDrhcqM&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=33",
+    "likes": "2,896 likes",
+    "duration": "3689 sec"
+  },
+  {
+    "name": "What is Asynchronous Programming? ",
+    "link": "https://www.youtube.com//watch?v=SWWl1o0LT1I&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=34",
+    "likes": "1,491 likes",
+    "duration": "1053 sec"
+  },
+  {
+    "name": "Ajax tutorial in hindi ",
+    "link": "https://www.youtube.com//watch?v=FJZEVmF3eDg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=35",
+    "likes": "3,358 likes",
+    "duration": "2911 sec"
+  },
+  {
+    "name": "Library Class Implementation Exercise 4: Solution ",
+    "link": "https://www.youtube.com//watch?v=1fSEMGubXuc&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=36",
+    "likes": "533 likes",
+    "duration": "968 sec"
+  },
+  {
+    "name": "Callback functions in javascript ",
+    "link": "https://www.youtube.com//watch?v=zrvpCtlsRpk&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=37",
+    "likes": "1,977 likes",
+    "duration": "1069 sec"
+  },
+  {
+    "name": "Using a Dictionary API Exercise 5 ",
+    "link": "https://www.youtube.com//watch?v=VkBUSzawCKU&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=38",
+    "likes": "520 likes",
+    "duration": "371 sec"
+  },
+  {
+    "name": "Promises Basics, Promise.then() & Promise.catch() ",
+    "link": "https://www.youtube.com//watch?v=2IPw-mWe10U&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=39",
+    "likes": "1,985 likes",
+    "duration": "1328 sec"
+  },
+  {
+    "name": "Project 3: Creating a News Website ",
+    "link": "https://www.youtube.com//watch?v=w9bVm7VLqTI&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=40",
+    "likes": "1,456 likes",
+    "duration": "2522 sec"
+  },
+  {
+    "name": "Arrow functions in Javascript ",
+    "link": "https://www.youtube.com//watch?v=RwlL5pXPhfs&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=41",
+    "likes": "850 likes",
+    "duration": "628 sec"
+  },
+  {
+    "name": "Fetch api in Javascript ",
+    "link": "https://www.youtube.com//watch?v=38uPRscJXfo&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=42",
+    "likes": "1,941 likes",
+    "duration": "1321 sec"
+  },
+  {
+    "name": "Async/Await in Javascript ",
+    "link": "https://www.youtube.com//watch?v=AyJq1RRaY_k&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=43",
+    "likes": "2,084 likes",
+    "duration": "830 sec"
+  },
+  {
+    "name": "Error Handling & Try Catch in Javascript ",
+    "link": "https://www.youtube.com//watch?v=BcAYvnsbmMQ&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=44",
+    "likes": "747 likes",
+    "duration": "880 sec"
+  },
+  {
+    "name": "Using JavaScript Objects Exercise 5: Solution ",
+    "link": "https://www.youtube.com//watch?v=z_VJvc0XZL0&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=45",
+    "likes": "426 likes",
+    "duration": "1193 sec"
+  },
+  {
+    "name": "JavaScript Regular Expressions & related functions ",
+    "link": "https://www.youtube.com//watch?v=3IhQF4-HQdo&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=46",
+    "likes": "1,271 likes",
+    "duration": "1738 sec"
+  },
+  {
+    "name": "Regular Expressions - Metacharacters in JavaScript ",
+    "link": "https://www.youtube.com//watch?v=4qnhPqdPpSo&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=47",
+    "likes": "747 likes",
+    "duration": "1039 sec"
+  },
+  {
+    "name": "Regular Expressions - Character sets ",
+    "link": "https://www.youtube.com//watch?v=Fapp4FH2llM&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=48",
+    "likes": "694 likes",
+    "duration": "1316 sec"
+  },
+  {
+    "name": "Shorthand character classes (Regular Expressions) ",
+    "link": "https://www.youtube.com//watch?v=vyMlFKRfrNk&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=49",
+    "likes": "641 likes",
+    "duration": "1316 sec"
+  },
+  {
+    "name": "Project 4: Form Validation using Regular Expressions ",
+    "link": "https://www.youtube.com//watch?v=WD4fSUwY5zY&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=50",
+    "likes": "871 likes",
+    "duration": "3451 sec"
+  },
+  {
+    "name": "Iterators in JavaScript ",
+    "link": "https://www.youtube.com//watch?v=2MNbH7sQK-I&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=51",
+    "likes": "617 likes",
+    "duration": "900 sec"
+  },
+  {
+    "name": "Creating an Alarm App: Exercise 6 ",
+    "link": "https://www.youtube.com//watch?v=6xSRk0vk1jg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=52",
+    "likes": "492 likes",
+    "duration": "375 sec"
+  },
+  {
+    "name": "Generators in Javascript ",
+    "link": "https://www.youtube.com//watch?v=RN5FRD-yrz4&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=53",
+    "likes": "661 likes",
+    "duration": "620 sec"
+  },
+  {
+    "name": "Alarm Clock In JavaScript ",
+    "link": "https://www.youtube.com//watch?v=p5o_cApVATE&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=54",
+    "likes": "628 likes",
+    "duration": "1371 sec"
+  },
+  {
+    "name": "Project 5: Creating a CV Screener In JavaScript ",
+    "link": "https://www.youtube.com//watch?v=LJHqsSvF4_M&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=55",
+    "likes": "717 likes",
+    "duration": "1909 sec"
+  },
+  {
+    "name": "For.. of Loop vs For.. in Loop (When to use which?) ",
+    "link": "https://www.youtube.com//watch?v=Hxd-JjgHZQ4&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=56",
+    "likes": "789 likes",
+    "duration": "1177 sec"
+  },
+  {
+    "name": "JavaScript Maps ",
+    "link": "https://www.youtube.com//watch?v=Cv9gvXEyPdE&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=57",
+    "likes": "830 likes",
+    "duration": "1287 sec"
+  },
+  {
+    "name": "JavaScript Sets ",
+    "link": "https://www.youtube.com//watch?v=nwgH8IOqRMA&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=58",
+    "likes": "582 likes",
+    "duration": "1103 sec"
+  },
+  {
+    "name": "JavaScript Symbols ",
+    "link": "https://www.youtube.com//watch?v=5ftatbD3MAI&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=59",
+    "likes": "558 likes",
+    "duration": "826 sec"
+  },
+  {
+    "name": "JavaScript Destructuring ",
+    "link": "https://www.youtube.com//watch?v=eIl7WcrmY1c&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=60",
+    "likes": "569 likes",
+    "duration": "682 sec"
+  },
+  {
+    "name": "JavaScript Wall Clock: Exercise 6 ",
+    "link": "https://www.youtube.com//watch?v=WIp6fi2h6dE&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=61",
+    "likes": "360 likes",
+    "duration": "249 sec"
+  },
+  {
+    "name": "Creating a Clock: Exercise 6 Solution ",
+    "link": "https://www.youtube.com//watch?v=ZB1gNlUreu4&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=62",
+    "likes": "474 likes",
+    "duration": "959 sec"
+  },
+  {
+    "name": "Project 6: PostMan Clone - Creating a Get/Post Request Website ",
+    "link": "https://www.youtube.com//watch?v=g0gLojpleAg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=63",
+    "likes": "797 likes",
+    "duration": "5524 sec"
+  },
+  {
+    "name": "Drag & Drop Elements with JavaScript and HTML ",
+    "link": "https://www.youtube.com//watch?v=mp0PHdpEC7A&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=64",
+    "likes": "814 likes",
+    "duration": "2301 sec"
+  },
+  {
+    "name": "Project 7: Creating a Calculator using HTML, CSS & JS ",
+    "link": "https://www.youtube.com//watch?v=yIdA6HvUi_Q&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=65",
+    "likes": "2,189 likes",
+    "duration": "1933 sec"
+  },
+  {
+    "name": "JavaScript Tutorial In Hindi",
+    "link": "https://www.youtube.com//watch?v=hKB-YGF14SY&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=66",
+    "likes": "58,351 likes",
+    "duration": "13457 sec"
+  }
+]
